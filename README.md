@@ -115,4 +115,4 @@ with automated campaigns and reporting.
 
 ## 📄 License
 
-MIT — Copyright (c) 2026 **Sahil Rakholiya & Priya Yadav**. See [LICENSE](LICENSE).
+MIT — Copyright (c) 2026  See [LICENSE](LICENSE).
