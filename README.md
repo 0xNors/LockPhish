@@ -70,18 +70,8 @@ server/
 scripts/                generators, verification, screenshots, docs builders
 ```
 
-## 📚 Project Documentation (included in this repo)
 
-| File | Contents |
-|---|---|
-| `LockPhish_Project.ipynb` | Runnable IPython notebook — live analysis of `data/lockphish.sqlite` |
-| `LockPhish_Project_Report.pdf` | 24-page full project report with live figures & screenshots |
-| `LockPhish_Project_Report.docx` | Word version of the report |
-| `LockPhish_Project_Presentation.pptx` | 38-slide presentation with real product screenshots |
-| `PROJECT_README.md` | Documentation-pack readme |
 
-All figures, tables and screenshots in the documentation are generated from the
-platform's **live database and running UI** at build time — no synthetic data.
 
 ## 🔐 Security Features
 
