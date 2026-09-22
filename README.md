@@ -6,12 +6,7 @@
 
 An enterprise-grade, multi-tenant cybersecurity awareness platform that combines realistic multi-channel phishing simulations, a 120-course Masterclass Academy, mathematical human-risk quantification (HRI), and auditor-ready compliance evidence — all backed by real SQLite telemetry (no fake data).
 
-## 👥 Project Members
 
-| Name | Role |
-|---|---|
-| **Sahil Rakholiya** | Project Member — Design & Development |
-| **Priya Yadav** | Project Member — Design & Development |
 
 ## ✨ Highlights
 
